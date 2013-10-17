@@ -1,9 +1,9 @@
 # The Little Freelancer
 ## A guide to doing work that's good and good for you
 
-This project is a labor of love from The Iron Yard. It is open source, and we encourage you to make additions and suggestions via pull requests or issues. 
+This project is a labor of love from [The Iron Yard](http://theironyard.com). It's open source, and we encourage you to make improvements via pull requests or issues. We hope it makes freelancers and their clients happy. 
 
-The guide was originally written for students in [The Iron Yard](http://theironyard.com)'s intensive [Front End Engineering program](http://theironyard.com/education/academy/front-end-engineering/).  [Eric Dodds](www.ericdodds.com) wrote the first draft, which [Mason Stewart](http://www.twitter.com/masondesu) edited and proofed with hawk-like eyes. Special thanks to [Daniel Jeffords](http://danieljeffords.com), [Andrew Ramos](www.andrewramos.com), and [Andrew McIntee](http://www.behance.net/andrewmcintee) for feedback. 
+The guide was originally written for students in The Iron Yard's intensive [Front End Engineering program](http://theironyard.com/education/academy/front-end-engineering/).  [Eric Dodds](www.ericdodds.com) wrote the first draft, which [Mason Stewart](http://www.twitter.com/masondesu) edited and proofed with hawk-like eyes. Special thanks to [Daniel Jeffords](http://danieljeffords.com), [Andrew Ramos](www.andrewramos.com), and [Andrew McIntee](http://www.behance.net/andrewmcintee) for feedback. 
 
 ### Welcome to customer service
 
