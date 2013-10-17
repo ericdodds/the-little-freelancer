@@ -1,5 +1,5 @@
 # The Little Freelancer
-## A guide to doing work that's good and good for you
+## A guide to doing work that's good & good for you
 
 This project is a labor of love from [The Iron Yard](http://theironyard.com). It's open source, and we encourage you to make improvements via pull requests or issues. We hope it makes freelancers and their clients happy. 
 
