@@ -1,7 +1,9 @@
 # The Little Freelancer
 ## A guide to doing work that's good and good for you
 
-This project is a labor of love from The Iron Yard. The guide was originally written for students in [The Iron Yard](http://theironyard.com)'s intensive [Front End Engineering program](http://theironyard.com/education/academy/front-end-engineering/).  [Eric Dodds](www.ericdodds.com) wrote the first draft, which [Mason Stewart](http://www.twitter.com/masondesu) edited and proofed with hawk-like eyes. Special thanks to [Daniel Jeffords](http://danieljeffords.com), [Andrew Ramos](www.andrewramos.com), and [Andrew McIntee](http://www.behance.net/andrewmcintee) for feedback. 
+This project is a labor of love from The Iron Yard. It is open source, and we encourage you to make additions and suggestions via pull requests or issues. 
+
+The guide was originally written for students in [The Iron Yard](http://theironyard.com)'s intensive [Front End Engineering program](http://theironyard.com/education/academy/front-end-engineering/).  [Eric Dodds](www.ericdodds.com) wrote the first draft, which [Mason Stewart](http://www.twitter.com/masondesu) edited and proofed with hawk-like eyes. Special thanks to [Daniel Jeffords](http://danieljeffords.com), [Andrew Ramos](www.andrewramos.com), and [Andrew McIntee](http://www.behance.net/andrewmcintee) for feedback. 
 
 ### Welcome to customer service
 
@@ -130,6 +132,8 @@ Why is this helpful? When a project is gigantic (and take multiple months), it c
 ### The contract
 
 We've provided you with a contract template. Keep this blank version and create new versions customized for each project you complete. 
+
+*Note: this is a contract that several people have used for years. It's been modified in that time. The original was based off of a contract someone found online, but we don't know where the original came from. If you happen to know, submit a pull request or open an issue and we will add attribution.*
 
 Everything in the document is super straight-forward, and there shouldn't be any surprises for clients. If they have questions, you have a nice "what this means in english" guide that you can use to walk them through everything. You can also encourage clients to feel free to ask their lawyer to review the contract. Again, though, this is standard stuff and there shouldn't be any issues. 
 
