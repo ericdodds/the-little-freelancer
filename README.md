@@ -5,6 +5,8 @@ This project is a labor of love from [The Iron Yard](http://theironyard.com). It
 
 The guide was originally written for students in The Iron Yard's intensive [Front End Engineering program](http://theironyard.com/education/academy/front-end-engineering/).  [Eric Dodds](www.ericdodds.com) wrote the first draft, which [Mason Stewart](http://www.twitter.com/masondesu) edited and proofed with hawk-like eyes. Special thanks to [Daniel Jeffords](http://danieljeffords.com), [Andrew Ramos](www.andrewramos.com), and [Andrew McIntee](http://www.behance.net/andrewmcintee) for feedback. 
 
+---
+
 ### Welcome to customer service
 
 This guide covers practical advice ranging from your first client meeting to self employment taxes. Before we get there, though, we want to remind you of something **really** important:
