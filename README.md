@@ -1,7 +1,7 @@
 # The Little Freelancer
 ## A guide to doing work that's good and good for you
 
-A labor of love from The Iron Yard and friends [^1]
+This project is a labor of love from The Iron Yard. The guide was originally written for students in [The Iron Yard](http://theironyard.com)'s intensive [Front End Engineering program](http://theironyard.com/education/academy/front-end-engineering/).  [Eric Dodds](www.ericdodds.com) wrote the first draft, which [Mason Stewart](http://www.twitter.com/masondesu) edited and proofed with hawk-like eyes. Special thanks to [Daniel Jeffords](http://danieljeffords.com), [Andrew Ramos](www.andrewramos.com), and [Andrew McIntee](http://www.behance.net/andrewmcintee) for feedback. 
 
 ### Welcome to customer service
 
@@ -25,19 +25,17 @@ People like to work with people who do what they say they are going to do, when 
 
 As you grow, you'll learn that meeting expectations is great, but *exceeding* them is even better. If you can consistently blow people away with your work *and* communication, you will be in very high demand. 
 
-Our friend Joshua Blankenship is a really talented designer, and has some great insight into mistakes he made early in his career. 
+Our friend Joshua Blankenship is a really talented designer, and has some [great insight into](http://joshuablankenship.com/blog/2011/08/27/how-i-finally-became-a-professional-designer/) mistakes he made early in his career. 
 
 > Most designers, at least when we’re starting out, think we’re much better at all this whole professionalism thing than we actually are. As an independent designer, I’m typically responsible for choosing the client, helping to determine their goals and the way(s) we can accomplish them, setting and enforcing boundaries, negotiating scope, timeline, and payment, and communicating with them throughout the project, for good or ill.
 
-> When I didn’t get paid for work, I likely failed to facilitate an environment that attached clear boundaries and real consequences to lack of payment. When the scope spiraled out of control, I reaped the extra labor I sowed through my lack of clear statements of work prior to beginning the project. When clients were unhappy with our working relationship, I could typically trace it back to my inconsistent or even M.I.A. communication. When clients were frustrating to work with despite my best efforts on my best days, hey, I picked them, right? I chose to enter into a business relationship with that client. In short, I was never a victim of anyone other than myself. And my clients paid for it.[^2]
-
+> When I didn’t get paid for work, I likely failed to facilitate an environment that attached clear boundaries and real consequences to lack of payment. When the scope spiraled out of control, I reaped the extra labor I sowed through my lack of clear statements of work prior to beginning the project. When clients were unhappy with our working relationship, I could typically trace it back to my inconsistent or even M.I.A. communication. When clients were frustrating to work with despite my best efforts on my best days, hey, I picked them, right? I chose to enter into a business relationship with that client. In short, I was never a victim of anyone other than myself. And my clients paid for it.
 
 ---
 
 #### Ok, let's talk about some practical stuff you'll face doing client work. 
 
 ---
-
 
 ### Pre-vetting clients
 
@@ -61,8 +59,6 @@ Here's one way to respond to an inquiry like the example above:
 > — Alyssa P. Hacker
 
 Depending on their responses, you might need to ask more questions, like whether or not they have a designer, what their budget is, etc.
-
-
 
 ### The initial client meeting
 
@@ -232,8 +228,3 @@ Here are a few other resources for further study (we've also included these in P
 * [Freelance Tax FAQ](http://www.anti9to5guide.com/2006/10/27/freelance-tax-faq/) by Michelle Goodman at Anti9to5guide.com
 * [Avoiding (Freelance) Tax Trouble](http://freelanceswitch.com/the-business-of-freelancing/avoiding-tax-trouble/) by Carol Tice at Freelanceswitch.com
 * [Your Taxes As A Freelancer](http://www.learnvest.com/knowledge-center/your-taxes-if-youre-a-freelancer/) by Alden Wicker at Learnvest.com
-
-
-[^1]: This document was originally written for students in [The Iron Yard](http://theironyard.com)'s intensive [Front End Engineering program](http://theironyard.com/education/academy/front-end-engineering/).  [Eric Dodds](www.ericdodds.com)  wrote the original draft, which [Mason Stewart](http://www.twitter.com/masondesu) edited and proofed with hawk-like eyes. Special thanks to [Daniel Jeffords](http://danieljeffords.com), [Andrew Ramos](www.andrewramos.com), and [Andrew McIntee](http://www.behance.net/andrewmcintee) for feedback. 
-
-[^2]: Joshua Blankenship is a talented designer, writer, and thinker who has great advice on how to do client work well. [Read the full post, "How Doing Less Work for More Money Saved Client Work (or) How I Finally Became a Professional Designer"](http://joshuablankenship.com/blog/2011/08/27/how-i-finally-became-a-professional-designer/). 
