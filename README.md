@@ -63,11 +63,13 @@ Here's one way to respond to an inquiry like the example above:
 > I'd love to learn more about your project—could you give me details on what you're looking for? Here are a few questions: <br><br>
 > • Could you describe the nature and size of the project? (HTML/CSS/JavaScript, is it a new project or work on an existing project, etc.) <br>
 > • Do you have a timeline/deadline? <br><br>
-> If you can give me those details, I can make sure it's a good fit for my skill set and schedule, and we can put a meeting on the calendar to discuss the project in more detail. <br><br>
+> If you can give me those details, I can make sure it's a good fit for my skill set and schedule, and we can put a meeting on the calendar to discuss the project in more detail. Also, I wanted to let you know that my rate is #XX/hour. <br><br>
 > Thanks, and I look forward to talking soon! <br><br>
 > — Alyssa P. Hacker
 
-Depending on their responses, you might need to ask more questions, like whether or not they have a designer, what their budget is, etc.
+It's good to establish your rate early. If it's way out of the ballpark for a client, you'll know immediately whether or not you need to pursue the work. 
+
+Depending on their responses to the email, you might need to ask more questions, like whether or not they have a designer, what their budget is, etc.
 
 ### The initial client meeting
 
@@ -76,8 +78,7 @@ When you first meet a client, come prepared. Here are some ideas for the type of
 * Have you researched the person/company and their background? Any information that's available online you should already know going into the meeting, *especially* if you're working on an existing site or project that you can explore.
 * Bring something to take notes with—you'll want to remember exactly what you covered and be able to reference the conversation as you build a proposal. 
 * Read through (and print out, if you want) the notes from your initial email conversation so that you can reference them in your discussion.
-* Have a pre-determined hourly rate in mind so that you don't waffle when they ask you how much you cost.
-* If they don't ask you how much you cost, tell them. It's good to establish that from the get-go. 
+* If you haven't already established your hourly rate, do so early in the meeeting. Say something to the effect of, "I wanted to discuss cost before we talked about the project so we're on the same page about my rate."
 * Dress nicely, of course. 
 
 Depending on the nature of the project, here are a few things to keep in mind: 
