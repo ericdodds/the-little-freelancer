@@ -71,7 +71,8 @@ When you first meet a client, come prepared. Here are some ideas for the type of
 * Have you researched the person/company and their background? Any information that's available online you should already know going into the meeting, *especially* if you're working on an existing site or project that you can explore.
 * Bring something to take notes with—you'll want to remember exactly what you covered and be able to reference the conversation as you build a proposal. 
 * Read through (and print out, if you want) the notes from your initial email conversation so that you can reference them in your discussion.
-* Have a pre-determined hourly rate in mind so that you don't waffle if they ask you how much you cost. 
+* Have a pre-determined hourly rate in mind so that you don't waffle when they ask you how much you cost.
+* If they don't ask you how much you cost, tell them. It's good to establish that from the get-go. 
 * Dress nicely, of course. 
 
 Depending on the nature of the project, here are a few things to keep in mind: 
