@@ -234,7 +234,7 @@ Here are a few things that it's *really* important to remember:
 
 * Save money to pay your quarterly (or monthly) taxes. This will be between 30 and 40% of what you make. Yeah, taxes suck. 
 * The good news: you can deduct *so many expenses*. Computers, food at client meetings, milage traveling to and from meetings, and the list goes on. All of those things are tools for business, and you can write them off. This is where a tool like Harvest makes your life oh-so-much-easier. 
-* Find a good CPA. If you're not a bean counter, going it alone isn't worth the time or pain. [How to interview and hire an accountant]{http://planscope.io/blog/how-to-hire-an-accountant}
+* Find a good CPA. If you're not a bean counter, going it alone isn't worth the time or pain. [How to interview and hire an accountant](http://planscope.io/blog/how-to-hire-an-accountant)
 
 Here are a few other resources for further study (we've also included these in PDF format):
 
