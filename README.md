@@ -150,8 +150,9 @@ Everything in the document is super straight-forward, and there shouldn't be any
 
 When you send the contract, it's a good idea to gently remind the client that you don't start work until you have 20% of the estimate up front. You can also send an invoice for that amount when you deliver the contract so they can knock out both at one time.
 
-Further reading on contracts:  
-[Understanding Basic Contracts - Graphic Design Contracts Explained](https://lessaccounting.com/blog/graphic-design-contracts) by Allan Branch at Lessaccounting.com.
+A few more resources on contracts:  
+
+* [Understanding Basic Contracts - Graphic Design Contracts Explained](https://lessaccounting.com/blog/graphic-design-contracts) by Allan Branch at Lessaccounting.com
 
 ### Communication throughout the project
 
