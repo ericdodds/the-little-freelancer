@@ -140,18 +140,18 @@ Why is this helpful? When a project is gigantic (and take multiple months), it c
 
 ### The contract
 
-No matter how good you think your work is, you must have a contract. A contract outlines how the business transaction will proceed. When and if there is any question or dispute over a project, or an emergency on either side that would prevent completion of the work, a rock-solid contract will protect both you and the client.
+No matter how good you think your work is, you need to have a contract. A contract outlines how the business transaction is going to take place and how the relationship will operate. If and when there is any question or dispute over a project, or an emergency on either side that would prevent completion of the work, a rock-solid contract will protect both you and the client.
 
 We've provided you with a contract template. Keep this blank version and create new versions customized for each project you complete. 
 
 *Note: this is a contract that several people have used for years. It's been modified in that time. The original was based off of a contract someone found online, but we don't know where the original came from. If you happen to know, submit a pull request or open an issue and we will add attribution.*
 
-Everything in the document is super straight-forward, and there shouldn't be any surprises for clients. If they have questions, you have a nice "what this means in english" guide that you can use to walk them through everything. You can also encourage clients to feel free to ask their lawyer to review the contract. Again, though, this is standard stuff and there shouldn't be any issues. 
+Everything in the document is super straight-forward, and there shouldn't be any surprises for clients. If they have questions, you have a nice "what this means in english" guide that you can use to walk them through everything (don't send that version to them). You can also encourage clients to feel free to ask their lawyer to review the contract. Again, though, this is standard stuff and there shouldn't be any issues. 
 
 When you send the contract, it's a good idea to gently remind the client that you don't start work until you have 20% of the estimate up front. You can also send an invoice for that amount when you deliver the contract so they can knock out both at one time.
 
-Further reading on contracts:
-- [Understanding Basic Contracts - Graphic Design Contracts Explained](https://lessaccounting.com/blog/graphic-design-contracts) written by [Allan Branch](https://plus.google.com/109452217771159542911) at [lessaccounting.com](https://lessaccounting.com/)
+Further reading on contracts:  
+[Understanding Basic Contracts - Graphic Design Contracts Explained](https://lessaccounting.com/blog/graphic-design-contracts) by Allan Branch at Lessaccounting.com.
 
 ### Communication throughout the project
 
@@ -184,21 +184,24 @@ Most of your (good) work will likely come from happy clients who tell other peop
 
 Doing small, simple things to surprise and delight good clients goes *really* far. 
 
-Referrals are great, but do not wait for the phone to ring. Go out and meet people. A successful freelancers will always have a large network of friends within the industry...go be nice to people.
-
-Ideas for Marketing
-- Give a Barcamp talk about design or development.
-- Send handmade birthday/thank-you/etc cards to people in the industry who have inspired you.
-- Attend a meetup and buy coffee (or beer) for the group.
-- Find someone you admire, email them and ask them for advice. Check back with them in 2 months and tell them your progress and thank them.
-
 ### Other freelancers can be your marketing, too
 
 Making relationships with designers and copywriters can be extremely helpful. Not only can you refer them as trusted resources to your clients, but if they like working with you they'll send business your way, too. Sometimes knowing a quality copywriter or designer who can be part of the project 'team' can make the difference between getting a job or not. If you have design chops, there are always developers looking for design help to make their open source projects pretty. Find some open source projects on GitHub and tweet out that you're willing to help out on the project for free.
 
+### Other ideas for marketing
+
+Referrals are great, but don't wait for the phone to ring. Go out and meet people. Most successful freelancers have a large network of friends in the industry. Go make friends with those people. 
+
+A few more ideas:  
+
+* Give a Barcamp talk about design or development.
+* Send handmade birthday/thank-you/etc cards to people in the industry who have inspired you.
+* Attend a meetup and buy coffee (or beer) for the group.
+* Find someone you admire, email them and ask them for advice. Check back with them in 2 months and tell them your progress and thank them.
+
 ### Bad clients
 
-Ultimately you choose your clients, but you'll run across bad apples whose true colors come out after the contract has been signed. There's no two ways about it: this sucks. Bad apples come in all flavors, but here are a few common varieties and how you should deal with them: 
+Ultimately you choose your clients, but you'll run across bad apples whose true colors come out after the contract has been signed. There are no two ways about it: this sucks. Bad apples come in all flavors, but here are a few common varieties and how you should deal with them: 
 
 **1) Clients who pay and stay in scope, but are hard to work with**
 
@@ -218,11 +221,11 @@ Stick to your guns. You and the client signed a contract that referenced a descr
 
 Remember, don't be a jerk—sometimes things change and we all have to be flexible. If it's a small change, you can get written approval of an estimate of additional hours via email, just make sure to save that email. 
 
-But if a client is constantly making significant changes and/or changing the scope, stop working for them (even if that means ending the contract). You must have a contract, I don't care how good you think your work is, a contract outlines how the business transaction will proceed.
+But if a client is constantly making significant changes and/or changing the scope, stop working for them (even if that means ending the contract).
 
 **3) Clients who break contract or don't pay**
 
-Hopefully this won't happen. If it does, take a deep breath—it isn't going to be fun. Here are a few preventative tips on [keeping outstanding invoices from killing your business](https://lessaccounting.com/blog/outstanding-invoices-ruin-small-business).
+Hopefully this won't happen. If it does, take a deep breath—it isn't going to be fun.
 
 *What to do*: 
 
@@ -232,12 +235,15 @@ If a client makes a clear breech of contract, fire them. You don't want to work 
 
 ### Track time, expenses and get paid
 
-We'll keep this pretty simple: use [Harvest](http://getharvest.com), [Freckle](http://letsfreckle.com) or [LessTimeSpent](http://lesstimespent.com). You can do *almost everything financial you need to do* as a freelancer with their app.[^2]
+We'll keep this pretty simple: use [Harvest](http://getharvest.com), [Freckle](http://letsfreckle.com) or [LessTimeSpent](http://lesstimespent.com). You can do *almost everything financial you need to do* as a freelancer with one (or more) of these apps. A few features some of these tools have that will make your life easier: 
 
-* They offer a really slick desktop and mobile apps that you can use to keep track of the hours you work
-* You can use the same tools to track all of your business-related expenses
-* Their app generates invoices that you can send to clients digitally
-* Their app allows you to accept payment via PayPal or Stripe (we recommend [Stripe](http://stripe.com))
+* Really slick desktop and mobile apps that you can use to keep track of the hours you work
+* Tools to track all of your business-related expenses
+* Generate invoices that you can send to clients digitally
+* Accept payment (generally via PayPal or Stripe, but we recommend [Stripe](http://stripe.com))
+
+**Pro tip**: Time between invoicing a client and getting paid (generally two weeks) can potentially create cash-flow issues for you. Here are a few preventative tips on [keeping outstanding invoices from causing you problems](https://lessaccounting.com/blog/outstanding-invoices-ruin-small-business).
+
 
 ### Taxes
 
@@ -247,10 +253,11 @@ Here are a few things that it's *really* important to remember:
 
 * Save money to pay your quarterly (or monthly) taxes. This will be between 30 and 40% of what you make. Yeah, taxes suck. 
 * The good news: you can deduct *so many expenses*. Computers, food at client meetings, milage traveling to and from meetings, and the list goes on. All of those things are tools for business, and you can write them off. A tax deductable expense does *not* mean it's free, but rather that you're exempt from paying taxes or full taxes on that money as profit. Again, this is where an tool that can track expenses (like Harvest) makes your life oh-so-much-easier.
-* Find a good CPA. If you're not a bean counter, going it alone isn't worth the time or pain. Here's some solid advice on [how to interview and hire an accountant](http://planscope.io/blog/how-to-hire-an-accountant)  by [Allan Branch](https://plus.google.com/109452217771159542911).
+* Find a good CPA. If you're not a bean counter, going it alone isn't worth the time or pain. 
 
 Here are a few other resources for further study (we've also included these in PDF format):
 
+* [How to Hire an Accountant](http://planscope.io/blog/how-to-hire-an-accountant) by Allan Branch on Planscope.com.
 * [Freelance Tax FAQ](http://www.anti9to5guide.com/2006/10/27/freelance-tax-faq/) by Michelle Goodman at Anti9to5guide.com
 * [Avoiding (Freelance) Tax Trouble](http://freelanceswitch.com/the-business-of-freelancing/avoiding-tax-trouble/) by Carol Tice at Freelanceswitch.com
 * [Your Taxes As A Freelancer](http://www.learnvest.com/knowledge-center/your-taxes-if-youre-a-freelancer/) by Alden Wicker at Learnvest.com
