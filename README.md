@@ -4,7 +4,7 @@
 This project is a labor of love from [The Iron Yard](http://theironyard.com). It's open source, and we encourage you to make improvements via pull requests or issues. We hope it makes freelancers and their clients happy. 
 
 
-The guide was originally written for students in The Iron Yard's intensive [Front End Engineering program](http://theironyard.com/education/academy/front-end-engineering/).  [Eric Dodds](http://www.ericdodds.com) wrote the first draft, which [Mason Stewart](https://github.com/masondesu) edited and proofed with hawk-like eyes. Special thanks to [Daniel Jeffords](http://danieljeffords.com), [Andrew Ramos](http://www.andrewramos.com), [Andrew McIntee](http://www.behance.net/andrewmcintee), and [Vicky Hammond](https://twitter.com/schmitzhammond) for feedback. 
+The guide was originally written for students in The Iron Yard's intensive [Front End Engineering program](http://theironyard.com/academy/front-end-engineering/).  [Eric Dodds](http://www.ericdodds.com) wrote the first draft, which [Mason Stewart](https://github.com/masondesu) edited and proofed with hawk-like eyes. Special thanks to [Daniel Jeffords](http://danieljeffords.com), [Andrew Ramos](http://www.andrewramos.com), [Andrew McIntee](http://www.behance.net/andrewmcintee), and [Vicky Hammond](https://twitter.com/schmitzhammond) for feedback. 
 
 
 ### License
